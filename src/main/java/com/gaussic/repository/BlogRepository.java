@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * Created by dzkan on 2016/3/18.
  */
-@Repository
+//@Repository
 public interface BlogRepository extends JpaRepository<BlogEntity, Integer> {
 
     // 修改博文操作
