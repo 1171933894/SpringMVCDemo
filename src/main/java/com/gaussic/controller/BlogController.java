@@ -20,6 +20,9 @@ import java.util.List;
 @Controller
 public class BlogController {
 
+
+    //curl -X post -v -u admin:f9dbae0a545b44aabf6b3f2366de6c3c http://132.232.42.202:9090/job/springdemotest/build?token=test
+
 //    @Autowired
     BlogRepository blogRepository;
 
